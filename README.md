@@ -1,5 +1,5 @@
 # fortitude
-If you're looking for new fortunes to fortify your ```fortune``` installation, then it's fortunate that you've stumbled on this repo!
+If you're looking for some fortunes with attitude to fortify your ```fortune``` installation, then it's fortunate that you've stumbled on this repo!
 
 ![fortune | cowsay | lolcat](https://github.com/theodric/misfortune/raw/master/misfortune.png)
 
