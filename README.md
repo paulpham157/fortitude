@@ -3,6 +3,7 @@ If you're looking for some fortunes with attitude to fortify your ```fortune``` 
 
 ![fortune | cowsay | lolcat](https://github.com/theodric/misfortune/raw/master/misfortune.png)
 
+_[You may also be interested in FOTD](https://github.com/theodric/fotd), a tool that allows an MOTD file to produce an endless stream of random fortunes!_
 
 * 9front/theo: from the 9front project, quotes from OpenBSD founder Theo de Raadt
 * 9front/troll: from the 9front project, fortunes designed to provoke and annoy
