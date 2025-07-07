@@ -24,7 +24,7 @@ _[You may also be interested in FOTD](https://github.com/theodric/fotd), a tool 
 * cowfart.cow: a farting cow for you to use with 'cowthink' (part of the 'cowsay' package on most distributions)
 
 Also of note in this repo is ```fortunefilecreator.sh```.
-In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. :shipit:
+In case you couldn't guess, it creates fortune files. It's nothing special, or particularly good, but it does the job. I'm sure you can do it better: please do; I stop caring once it works. 
 
 You feed it a text file with fortunes separated by empty lines containing linefeeds (just LF, not CRLF-- we're on UNIX, eh buddy?) and it spits out the %-delimited fortune file and runs strfile to create the requisite .dat.
 
@@ -54,8 +54,7 @@ Usage: fortune /path/to/bobross
 You'll probably want to install ```fortune``` so that you have ```strfile``` installed, because you'll need it to create the dat file. Also because none of this is of much use to you without ```fortune``` installed to, you know, display the fortunes.
 If you're on OSX, I recommend my fork of johnpneumann's now-archived Fortune-OSX port https://github.com/theodric/Fortune-OSX
 
-Additionally, you'll need GNU ```sed```, and not that BSD :poop: that OS X ships with. Linux users will be fine; for Macs, ```brew install gnu-sed --with-default-names``` will sort you out. BSD people are on their own, but you're probably used to that by now. :neckbeard:
-
+Additionally, you'll need GNU ```sed```, and not that BSD shit that OS X ships with. Linux users will be fine; for Macs, ```brew install gnu-sed --with-default-names``` will sort you out. BSD people are on their own, but you're probably used to that by now.
 Incidentally, I recommend checking the output file after you run the script just to confirm that everything is sane, i.e. no missing % (there needs to be one under each fortune) and no blank lines with a % under them (because that will result in a blank fortune). You can clean this up in a text editor, then run e.g. ```strfile bobross bobross.dat``` to regenerate the dat file.
 
 # Thanks
