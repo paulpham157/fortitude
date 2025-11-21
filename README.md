@@ -14,7 +14,6 @@ _[You may also be interested in FOTD](https://github.com/theodric/fotd), a tool 
 * billcooper: mostly quotes from ur-conspiracist William Cooper's book "Behold A Pale Horse"
 * bobross: the contents of http://www.bobrossquotes.com/quotes.shtml in fortune form
 * boris: Boris Johnson's hilarious witticisms
-* edgybois: I *guarantee you* that these are not the Charlie Kirk or Nick Fuentes quotes you're expecting.
 * jennyholzer: a collection of quotes from [notable quotable neo-conceptualist artist Jenny Holzer](https://en.wikipedia.org/wiki/Jenny_Holzer), of large scrolling LED sign installation fame. These quips were found in various places around the Internet, and are presented here for your confusion. If you've been through Amsterdam Schiphol airport in the last 22 years, you probably saw at least [one of her pieces](https://www.youtube.com/watch?v=6IGEoVJG39Y) there.
 * minilinux: 'Zippy' Fortunes scraped from 1993's Slackware release distributed in 1995 as "MiniLinux" which could be installed and launched from within MS-DOS.
 * off: these are the 'offensive' fortunes that are slowly being erased from history in the major Linux distributions. The files provided here were extracted from openSUSE Tumbleweed in late November 2024, and a Debian 3.1 "Sarge" release from January 2006, but should work on any distro. Spot-checks have not turned up deletions in the openSUSE repo, only spelling corrections. You can decide for yourself if you want to be offended!
