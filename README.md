@@ -20,6 +20,7 @@ _[You may also be interested in FOTD](https://github.com/theodric/fotd), a tool 
 * princephilip: quips from the last man in Britain who wouldn't be arrested for racism
 * poli: genius-level political insight
 * randomquotes: if this directory exists, then it contains random quotes that I like. If not, then I haven't gotten around to creating it yet.
+* tedk: The Unabomber, everyone. Just who you wanted to listen to!
 * zizek: sniffing and pontificating from radical Hegelian Marxist philosopher Slavoj Žižek
 * cowfart.cow: a farting cow for you to use with 'cowthink' (part of the 'cowsay' package on most distributions)
 
