@@ -30,8 +30,7 @@ Jeff Dean has binary readability.
 
 Jeff Dean has binary writability.
 
-When Jeff Dean goes on vacation, production services across Google mysteriously stop working within a few days. This is actually 
-true.
+When Jeff Dean goes on vacation, production services across Google mysteriously stop working within a few days. This is actually true.
 
 Jeff Dean once shifted a bit so hard it ended up on another computer.
 
