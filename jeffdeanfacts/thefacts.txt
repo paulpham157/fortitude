@@ -179,8 +179,7 @@ When Jeff Dean sends an Ethernet frame, there are no collisions because the comp
 
 Jeff once simultaneously reduced all binary sizes by 3% and raised the severity of a previously known low-priority Python bug to critical-priority in a single change that contained no Python code.
 
-One day, Jeff Dean grabbed his Etch-a-Sketch instead of his laptop on his way out the door. On his way back home to get his real 
-laptop, he programmed the Etch-a-Sketch to play Tetris.
+One day, Jeff Dean grabbed his Etch-a-Sketch instead of his laptop on his way out the door. On his way back home to get his real laptop, he programmed the Etch-a-Sketch to play Tetris.
 
 The x86-64 spec includes several undocumented instructions marked private use. They are actually for Jeff Dean's use.
 
